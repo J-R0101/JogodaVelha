@@ -1,0 +1,10 @@
+C:\Users\jrjos\source\repos\velha\velha\bin\Debug\velha.exe.config
+C:\Users\jrjos\source\repos\velha\velha\bin\Debug\velha.exe
+C:\Users\jrjos\source\repos\velha\velha\bin\Debug\velha.pdb
+C:\Users\jrjos\source\repos\velha\velha\obj\Debug\velha.csprojAssemblyReference.cache
+C:\Users\jrjos\source\repos\velha\velha\obj\Debug\velha.Form1.resources
+C:\Users\jrjos\source\repos\velha\velha\obj\Debug\velha.Properties.Resources.resources
+C:\Users\jrjos\source\repos\velha\velha\obj\Debug\velha.csproj.GenerateResource.cache
+C:\Users\jrjos\source\repos\velha\velha\obj\Debug\velha.csproj.CoreCompileInputs.cache
+C:\Users\jrjos\source\repos\velha\velha\obj\Debug\velha.exe
+C:\Users\jrjos\source\repos\velha\velha\obj\Debug\velha.pdb
